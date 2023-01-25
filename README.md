@@ -1,5 +1,5 @@
 # calculator-js
-20 days of JavaScript coding streak - day 17
+20 days of JavaScript coding streak - day 17 (25/01/2023)
 
 
 In the above example, the user is prompted to enter an operator (either +, -, * or /) and two numbers.
